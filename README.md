@@ -94,8 +94,6 @@ The notebook is structured to be **readable, educational, and easily extendable*
 
 ## 🖼️ Visuals
 
-Below are sample outputs produced by the trained model during inference:
-
 ### 🔹 Sample Alphabet 
 ![Model Output](images/image1.png)
 
