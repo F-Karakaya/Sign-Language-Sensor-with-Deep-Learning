@@ -127,6 +127,21 @@ These figures demonstrate the model’s ability to correctly recognize ASL alpha
 
 ---
 
+## 📊 Training Results & Performance Analysis
+
+The CNN model was trained for **10 epochs** on the ASL Sign Language MNIST dataset and demonstrated **fast convergence and strong generalization performance**. Starting from an initial validation accuracy of **~75.9%**, the model consistently improved across epochs, reaching a final **validation accuracy of 94.41%** and a **training accuracy of 97.62%**.
+
+Key observations from the training process:
+
+- **Rapid learning behavior:** A significant performance jump is observed within the first 3 epochs, indicating effective feature extraction by early convolutional layers.
+- **Stable generalization:** Training and validation accuracies remain closely aligned, suggesting minimal overfitting despite increasing model capacity.
+- **Effective regularization:** The use of **Dropout layers (0.2–0.3)** successfully controls overfitting while preserving high accuracy.
+- **Low final loss values:** Final training loss (~0.07) and validation loss (~0.19) indicate a well-optimized model.
+
+Overall, the results confirm that the proposed CNN architecture is **well-suited for ASL alphabet classification**, achieving high accuracy with a relatively lightweight network and short training time.
+
+---
+
 ## 🔬 Conclusion
 
 This project demonstrates that **deep learning–based computer vision techniques can effectively recognize sign language gestures** from image data. By leveraging CNN architectures, the system learns discriminative visual features that enable accurate classification of ASL alphabet signs.
@@ -147,7 +162,7 @@ Future extensions may include:
 ## 📬 Contact
 
 **Furkan Karakaya**  
-Machine Learning & Computer Vision Engineer  
+AI & Computer Vision Engineer  
 📧 se.furkankarakaya@gmail.com  
 
 ---
