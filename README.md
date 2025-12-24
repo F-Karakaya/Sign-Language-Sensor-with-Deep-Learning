@@ -1,4 +1,4 @@
-# 🤟 Sign Language Recognition with Deep Learning  
+# ☝️ Sign Language Recognition with Deep Learning  
 ### CNN-Based American Sign Language (ASL) Alphabet Classification
 
 This repository presents a **deep learning–based sign language recognition system** designed to classify **American Sign Language (ASL) alphabet gestures** from image data. The project demonstrates how **convolutional neural networks (CNNs)** and classical machine learning techniques can be applied to **vision-based human–computer interaction problems**, with a strong focus on accessibility and real-world usability.
@@ -97,7 +97,7 @@ The notebook is structured to be **readable, educational, and easily extendable*
 Below are sample outputs produced by the trained model during inference:
 
 ### 🔹 Sample Prediction Output
-![Model Output](images/image.png)
+![Model Output](images/image1.png)
 
 ### 🔹 Additional Classification Visualization
 ![Additional Output](images/image2.png)
