@@ -96,10 +96,10 @@ The notebook is structured to be **readable, educational, and easily extendable*
 
 Below are sample outputs produced by the trained model during inference:
 
-### 🔹 Sample Prediction Output
+### 🔹 Sample Alphabet 
 ![Model Output](images/image1.png)
 
-### 🔹 Additional Classification Visualization
+### 🔹 Additional Visualization
 ![Additional Output](images/image2.png)
 
 These figures demonstrate the model’s ability to correctly recognize ASL alphabet gestures from image data.
