@@ -92,7 +92,7 @@ The notebook is structured to be **readable, educational, and easily extendable*
 
 ---
 
-## 🖼️ Visual Results
+## 🖼️ Visuals
 
 Below are sample outputs produced by the trained model during inference:
 
@@ -101,8 +101,6 @@ Below are sample outputs produced by the trained model during inference:
 
 ### 🔹 Additional Visualization
 ![Additional Output](images/image2.png)
-
-These figures demonstrate the model’s ability to correctly recognize ASL alphabet gestures from image data.
 
 ---
 
